@@ -41,7 +41,7 @@ I linguaggi e programmi con cui mi sono trovato meglio a sviluppare e gestire pr
 ---
 ### Progetti Personali
 
-Per approfondire il funzionamento delle tecnologie che mi affascinano mi piace sperimentarle in progetti personali per affrontare sul campo le loro complessità, ricercando soluzioni efficaci ed efficienti.
+Per approfondire il funzionamento delle tecnologie che mi affascinano mi piace sperimentarle in progetti personali affrontandone sul campo le complessità, ricercando soluzioni efficaci ed efficienti.
 
 I progetti da cui ritengo aver imparato di più sono stati:
 
