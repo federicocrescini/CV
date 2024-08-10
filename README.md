@@ -1,7 +1,6 @@
 # Federico Crescini
 
-federicocrescini.fc@gmail.com - 339 4888527  
-[LinkedIn](https://www.linkedin.com/in/federico-crescini-855352322/) - [Github](https://github.com/federicocrescini)
+federicocrescini.fc@gmail.com
 
 Appassionato di ICT e progettazione circuitale, alla ricerca di una posizione iniziale nel campo informatico per applicare ed accrescere le mie competenze contribuendo allo sviluppo di progetti innovativi.
 
