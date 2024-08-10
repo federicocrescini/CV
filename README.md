@@ -151,9 +151,9 @@ Prossimamente vorrei:
 
 ### Altro
  Appassionato di fotografia e di ogni forma di espressione artistica. 
- Mi piace dedicarmi a nuove sfide soprattutto se implicano il cimentarsi in qualcosa di sconosciuto, sono sempre alla ricerca di ispirazioni e curioso di nuove scoperte;
- Il mio lavoro ideale non ha orari di inizio e fine, ma problemi a cui trovare soluzioni;
- Mi sento a mio agio nel lavorare in squadra o a stretto contatto con il pubblico;
+ Mi piace dedicarmi a nuove sfide soprattutto se implicano il cimentarsi in qualcosa di sconosciuto, sono sempre alla ricerca di ispirazioni e curioso di nuove scoperte.
+ Il mio lavoro ideale non ha orari di inizio e fine, ma problemi a cui trovare soluzioni.
+ Mi sento a mio agio nel lavorare in squadra o a stretto contatto con il pubblico.
  Munito di macchina e patente B.
 
 
