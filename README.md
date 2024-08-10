@@ -3,7 +3,7 @@
 federicocrescini.fc@gmail.com - 339 4888527  
 [LinkedIn](https://www.linkedin.com/in/federico-crescini-855352322/) - [Github](https://github.com/federicocrescini)
 
->Appassionato di ICT e progettazione circuitale, alla ricerca di una posizione iniziale nel campo informatico per applicare ed accrescere le mie competenze contribuendo allo sviluppo di progetti innovativi.
+Appassionato di ICT e progettazione circuitale, alla ricerca di una posizione iniziale nel campo informatico per applicare ed accrescere le mie competenze contribuendo allo sviluppo di progetti innovativi.
 
 ---
 ### Interessi
@@ -83,20 +83,20 @@ I progetti da cui ritengo aver imparato di più sono stati:
 		- Gestione ambiente domotico (raccolta dati sensori, analisi informazioni, controllo da remoto)
 
 	- **Funzionalita' future**:
-			- Implementazione Firewall dedicato
+		- Implementazione Firewall dedicato
 		- WebSocket (per la comunicazione in tempo reale senza bisogno di richieste singole)
 		- Gestione Utenti (con diversi livelli di privilegi)
 		- Integrazione AR per visualizzazione della rete
 
     - **Competenze acquisite**: 
-		- Gestione di una rete a basso consumo
+		- Gestione di una rete di dispositivi a basso consumo
 		- Programmazione di sistemi embedded
 		- Progettazione di circuiti elettronici
-		- Sviluppo di un' interfaccia gestionale
+		- Sviluppo di un'interfaccia gestionale user-friendly
 
 - **Creazione automatica di pagine web**
-	- script che automatizza la generazione di pagine web (HTML + JS) a partire da un template; consente di creare pagine con contenuti diversi mantenendo una struttura uniforme, ideale per applicazioni come gallerie fotografiche o cataloghi di prodotti.
-	- lo script chiede in input quale template si voglia usare, il percorso dei contenuti da caricare e quali funzioni aggiungere al codice del template (o quali file esterni collegare)
+	- Script che automatizza la generazione di pagine web (HTML + JS) a partire da un template; consente di creare pagine con contenuti diversi mantenendo una struttura uniforme, ideale per applicazioni come gallerie fotografiche o cataloghi di prodotti.
+	- Lo script chiede in input quale template si voglia usare, il percorso dei contenuti da caricare e quali funzioni aggiungere al codice del template (o quali file esterni collegare)
 
 	- **Tecnologie e linguaggi utilizzati**:
 		- Bash (esecuzione degli script python nelle cartelle corrette senza dover navigare oltre la principale)
@@ -107,13 +107,12 @@ I progetti da cui ritengo aver imparato di più sono stati:
 		- Creazione di un sito web con pagine dalla stessa struttura ma che caricano dinamicamente contenuti diversi (file da cartelle diverse, in quantita' diverse, o selezionati in maniera specifica sulla base di metadati)
 		
 	- **Funzionalita' future**:
-		 - Implementare l'utilizzo di SCP per il automatizzare il caricamento della pagina
+		- Implementare l'utilizzo di SCP per il automatizzare il caricamento della pagina
 		 
     - **Competenze acquisite**: 
 		- Sviluppo di pagine web ed ottimizzazione della loro struttura
-		- Manipolazione di file
 
-Altri progetti minori sono stati:
+Altri progetti minori:
 - progettazione e programmazione di centraline per motoveicoli
 - progettazione e programmazione di impianti agricoli automatizzati
 - scripting per automatizzazione della gestione di file system
@@ -152,8 +151,9 @@ Prossimamente vorrei:
 
 ### Altro
  Appassionato di fotografia e di ogni forma di espressione artistica. 
- Mi piace dedicarmi a nuove sfide soprattutto se implicano il cimentarsi in qualcosa di sconosciuto, sono sempre alla ricerca di ispirazioni e curioso di nuove scoperte. 
- Il mio lavoro ideale non ha orari di inizio e fine, ma problemi a cui trovare soluzioni, e mi sento a mio agio nel lavorare in squadra o a stretto contatto con il pubblico.
- Munito di macchina e patente B
+ Mi piace dedicarmi a nuove sfide soprattutto se implicano il cimentarsi in qualcosa di sconosciuto, sono sempre alla ricerca di ispirazioni e curioso di nuove scoperte;
+ Il mio lavoro ideale non ha orari di inizio e fine, ma problemi a cui trovare soluzioni;
+ Mi sento a mio agio nel lavorare in squadra o a stretto contatto con il pubblico;
+ Munito di macchina e patente B.
 
 
